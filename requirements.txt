@@ -1,1 +1,8 @@
 fastapi[all]
+pydantic
+joblib
+fastapi
+scikit-learn
+plotly
+streamlit
+pandas
